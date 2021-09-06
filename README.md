@@ -3,14 +3,14 @@
 My name is Ping, here is [my site](https://www.findbugs.life/).
 
 
-## 🚀 I'm currently working at : 
+## 🚀 I work at : 
 
 Expedia 
 
 --- 
 
-## 📚 I'm currently exploring: 
+## 📚 Favourite technologies: 
 
 - Java / Spring Boot
-- React / Vue
+- React.js
 
