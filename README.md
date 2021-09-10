@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Ping, here is [my site](https://www.findbugs.life/).
+My name is Oscar, here is [my site](https://www.findbugs.life/).
 
 --- 
 
