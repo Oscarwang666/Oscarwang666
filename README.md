@@ -7,7 +7,7 @@ My name is Oscar, here is [my site](https://www.findbugs.life/).
 
 ## 🚀 I work at : 
 
-Expedia 
+Coinbase 
 
 --- 
 
